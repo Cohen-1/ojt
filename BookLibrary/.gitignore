@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Editor / OS
+.vscode/
+*.suo
+Thumbs.db
+desktop.ini
+
+# Media / large files
+*.mkv
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
+# Node / Expo (if present)
+node_modules/
+.expo/
+
+# Misc
+.DS_Store
